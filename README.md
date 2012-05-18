@@ -18,4 +18,5 @@ Any old version of the following should suffice. The versions listed are the ver
   - File::Spec 0.82
   - Carp 1.04
   - JSON 2.15
+  - Data::Dumper
 
